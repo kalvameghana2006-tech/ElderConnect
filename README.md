@@ -70,8 +70,8 @@ The UI/UX prototype is designed using a visual prototyping tool to demonstrate u
 
 ---
 
-## 📄 Presentation
-The project presentation is available in the `ppt/` folder.
+## 📄 Project Presentation
+👉 [View Presentation (Google Drive)](https://drive.google.com/file/d/1ygQh6TXvUwPm0-FoOkL9yn8tQgra-RUj/view?usp=sharing)
 
 ---
 
